@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahamudulhaque4&label=Profile%20views&color=0e75b6&style=flat" alt="mahamudulhaque4" /> </p>
 <img align="right" height="150" src="https://media.tenor.com/AdyODFy5zhAAAAAM/anime-sharingen-madara-eye.gif" />
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahamudulhaque4&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="mahamudulhaque4" />
+  
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahamudulhaque4&theme=radical&hide_border=true" alt="mahamudulhaque4" />
 </p>
